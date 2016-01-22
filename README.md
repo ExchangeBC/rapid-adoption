@@ -1,6 +1,8 @@
 # rapid-adoption
 Docs, guides and <a rel="wiki" href="https://github.com/BCDevExchange/rapid-adoption/wiki">wiki</a> for our collaboration models
 
+###This is an experiment! We want to hear what you are thinking, please feel free to open an <a rel="issues" href="https://github.com/BCDevExchange/rapid-adoption/issues">issue</a> or join one of the existing discussions.
+
 ##<a rel="Pay for Pull Instructions" href="https://github.com/BCDevExchange/rapid-adoption/wiki">Pay for Pull Instructions</a>
 
 ## License
